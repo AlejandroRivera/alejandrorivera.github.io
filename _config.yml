@@ -1,0 +1,5 @@
+theme: jekyll-theme-midnight
+title: "arivera.io :: Blog"
+description: "A collection of thoughts, experiences and stories around Software Engineering"
+plugins:
+  - jemoji
